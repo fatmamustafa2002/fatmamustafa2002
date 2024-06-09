@@ -2,7 +2,7 @@
 
 ## Front-End Developer
 
-![Profile Banner](https://your-image-url-here) <!-- Replace with your own banner image -->
+<!--![Profile Banner](https://your-image-url-here) <!-- Replace with your own banner image -->
 
 Welcome to my GitHub profile! I'm a passionate Front-End Developer with a strong focus on crafting beautiful and user-friendly web interfaces. Here's a little bit more about me and the technologies I love to work with:
 
