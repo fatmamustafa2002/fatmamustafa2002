@@ -28,12 +28,12 @@ Welcome to my GitHub profile! I'm a passionate Front-End Developer with a strong
 ### Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical) <!-- Replace with your GitHub username -->
-
+<!--
 ### Projects
 
 - [Project Name](https://github.com/your-github-username/project-name) - Brief description of the project.
 - [Another Project](https://github.com/your-github-username/another-project) - Brief description of the project.
-
+-->
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin) <!-- Replace with your LinkedIn URL -->
