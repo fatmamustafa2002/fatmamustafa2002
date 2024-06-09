@@ -7,7 +7,7 @@
 Welcome to my GitHub profile! I'm a passionate Front-End Developer with a strong focus on crafting beautiful and user-friendly web interfaces. Here's a little bit more about me and the technologies I love to work with:
 
 ### About Me
-- 👩‍💻 I'm currently working on exciting front-end projects.
+- 👩‍💻 I'm currently working on exciting Front-End Projects.
 - 🌱 I'm always learning new things, currently focusing on TypeScript and advanced React patterns.
 - 💬 Ask me about HTML, CSS, JavaScript, TypeScript, and React!
 - ⚡ Fun fact: I love exploring new web technologies and frameworks!
