@@ -1,6 +1,6 @@
 <h1 align="center">🅷🅸 👋 🅸'🅼 🅵🅰🆃🅼🅰&nbsp; 🅼🆄🆂🆃🅰🅵🅰</h1>
 
-   ## Skills:
+   ## Skills :
    <div>
      <h4>HTML5</h4>
      <h4>CSS3</h4>
