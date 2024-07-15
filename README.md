@@ -9,8 +9,7 @@
    
 <div style="position:inline;">
    
-[![count_visitors]
-(https://visitcount.itsvg.in/api?id=fatmamustafa2002&icon=6&color=9)](https://visitcount.itsvg.in)
+[![count_visitors](https://visitcount.itsvg.in/api?id=fatmamustafa2002&icon=6&color=LightBlue)](https://visitcount.itsvg.in)
    
 ### 💭 Today's Quote :
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="fatmamustafa2002" /></p>
